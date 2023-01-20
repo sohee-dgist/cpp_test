@@ -29,6 +29,6 @@ int main() {
             answer = answer.substr(0, answer.size() - 1);
         }
     }
-    cout << answer;
+    cout << answer << endl;
     return 0;
 }
